@@ -1,0 +1,72 @@
+.presen{
+	width: 100%;
+	position: relative;
+	font-size: 40px;
+	/*bottom: px;*/
+	display: inline-block;
+	padding: 20px;
+	text-align: center;
+}
+
+
+.prepa{
+	width: 100%;
+	position: relative;
+	font-size: 30px;
+	/*bottom: 80px;*/
+	display: inline-block;
+
+}
+
+.uni{
+	/*width: 49%;
+	position: relative;
+	display: inline-block;
+	margin: auto;*/
+	width: 100%;
+	position: relative;
+	font-size: 30px;
+	display: inline-block;
+
+}
+.c{
+	width: 100%;
+	position: relative;
+	font-size: 30px;
+	/*bottom: 80px;*/
+	display: inline-block;
+
+}
+.diseño{
+	width: 100%;
+	position: relative;
+	font-size: 30px;
+	/*bottom: 80px;*/
+	display: inline-block;
+
+}
+.im{
+	height: 300px;
+}
+
+
+
+@media only screen and (min-width:  992px){
+	.prepa{
+		width: 49%;
+	}
+	
+	.uni{
+		width: 49%;
+	}
+	.c{
+		width: 49%;
+	}
+	.diseño{
+		width: 49%;
+	}
+
+	.im{
+		height: 350px;
+	}
+}

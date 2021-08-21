@@ -1,0 +1,123 @@
+.hob{
+	width: 100%;
+	position: relative;
+	font-size: 50px;
+	/*bottom: px;*/
+	display: inline-block;
+	/*padding: 20px;*/
+	text-align: center;
+}
+.fuu{
+	font-size: 40px;
+}
+.fut{
+	width: 100%;
+	position: relative;
+	font-size: 30px;
+	/*bottom: 80px;*/
+	display: inline-block;
+	margin-right: 20px;
+	text-align: justify;
+	margin-bottom: 20px;
+/*	border: solid red;*/
+}
+.fuut{
+	width: 100%;
+	position: relative;
+	font-size: 30px;
+	/*bottom: 80px;*/
+	display: inline-block;
+/*	border: solid black;*/
+	margin: auto;
+}
+.ts{
+	display: block;
+	margin: auto;
+	height: 170px;
+	margin-bottom: 30px;
+}
+.vide{
+	width: 100%;
+	position: relative;
+	bottom: 0px;
+	font-size: 30px;
+	/*bottom: 80px;*/
+	display: inline-block;
+	text-align: justify;
+	/*border: solid black;*/
+	/*height: 500px;*/
+}
+.vid{
+	width: 100%;
+	position: relative;
+	font-size: 30px;
+	/*bottom: 80px;*/
+	display: inline-block;
+	margin-right: 10px;
+	height: 100px;
+	/*border: solid black;*/
+	height: 250px;
+	width: 300px;
+}
+.jue{
+	width: 100%;
+	position: relative;
+	font-size: 30px;
+	/*bottom: 80px;*/
+	display: inline-block;
+	margin-right: 20px;
+	text-align: justify;
+	/*margin-bottom: 20px;*/
+	margin-top: 20px;
+}
+.jueg{
+	width: 100%;
+	position: relative;
+	font-size: 30px;
+	/*bottom: 80px;*/
+	display: inline-block;
+	/*border: solid black;*/
+	/*margin: auto;*/
+	margin-top: 40px;
+	height: 230px;
+}
+.war{
+	display: block;
+	margin: auto;
+	height: 100px;
+	/*margin-bottom: 30px;*/
+	/*border: solid black;*/
+}
+/*.bad{
+	display: block;
+	margin: auto;
+}*/
+@media only screen and (min-width:  992px){
+	.fut{
+		width: 49%;
+	}
+	.fuut{
+		width: 49%;
+	}
+	.ts{
+		height: 250px;
+		margin-bottom: 0px;
+	}
+	.vide{
+		width: 69%;
+		bottom: 20px;
+	}
+	.vid{
+		width: 29%;
+	}
+	.jue{
+		width: 49%;
+	}
+	.jueg{
+		width: 49%;
+	}
+	.war{
+		height: 230px;
+	}
+
+}

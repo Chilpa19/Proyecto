@@ -1,0 +1,95 @@
+.ace{
+	width: 100%;
+	position: relative;
+	font-size: 50px;
+	/*bottom: px;*/
+	display: inline-block;
+	/*padding: 20px;*/
+	text-align: center;
+}
+.habi{
+	
+	position: relative;
+	font-size: 40px;
+	/*bottom: 80px;*/
+	display: inline-block;
+	/*border: solid black;*/
+	margin: auto;
+}
+.debi{
+	position: relative;
+	font-size: 40px;
+	/*bottom: 80px;*/
+	display: inline-block;
+/*	border: solid black;*/
+	margin: auto;
+}
+
+.wi{
+	width: 100%;
+	position: relative;
+	font-size: 30px;
+	/*bottom: 80px;*/
+	display: inline-block;
+	text-align: justify;
+	/*border: solid black;*/
+	/*height: 500px;*/
+}
+.mil{
+	width: 100%;
+	position: relative;
+	font-size: 30px;
+	/*bottom: 80px;*/
+	display: inline-block;
+	text-align: justify;
+	/*border: solid black;*/
+	/*height: 500px;*/
+}
+.per{
+	position: relative;
+	font-size: 40px;
+	display: inline-block;
+}
+
+.po{
+	width: 100%;
+	position: relative;
+	bottom: 0px;
+	font-size: 30px;
+	display: inline-block;
+	text-align: justify;
+
+}
+
+
+.yo{
+	height: 300px;
+	display: block;
+	margin: auto;
+}
+.yy{
+	width: 100%;
+	display: inline-block;
+	margin-top: 20px;
+	/*border: solid red;*/
+}
+ @media only screen and (min-width:  992px){
+	.wi{
+		width: 47%;
+	}
+	.mil{
+		width: 47%;
+		margin-left: 25px;
+	}
+	.po{
+		width: 47%;
+		bottom: 100px;
+	}
+	.yy{
+		width: 47%;
+	}
+	.yo{
+		height: 400px;
+	}
+
+}
